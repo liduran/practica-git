@@ -1,3 +1,4 @@
 Estudiar Git
 Practicar Python 
-Aprender GitHubAprender HTMLSeccion de contactos del proyecto
+Aprender GitHubAprender HTM
+LSeccion de contactos del proyecto
